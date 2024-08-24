@@ -1,4 +1,4 @@
-<p style="color: blue;"><h1>FLOW CHART</h1></p>
+<h1>FLOW CHART</h1>
 Start
 
 Trigger: Need to install a Python package.
@@ -22,7 +22,7 @@ End
 
 Result: Package successfully installed.
 
-<p style="color: blue;"><h1> MAKE SURE TO CHECK THESE</h1></p>
+<h1> MAKE SURE TO CHECK THESE</h1>
 
 1.Ensure Matplotlib is Installed
 First, ensure that matplotlib is installed in your Python environment. You can do this by running:
