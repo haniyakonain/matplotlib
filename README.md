@@ -26,7 +26,7 @@ Result: Package successfully installed.
 
 1.Ensure Matplotlib is Installed
 First, ensure that matplotlib is installed in your Python environment. You can do this by running:
-pip install matplotlib
-2. Write the Code
+pip install matplotlib <BR>
+2. Write the Code <BR>
 Create a Python script or run the code directly in a Python interpreter
 3.Run the code
