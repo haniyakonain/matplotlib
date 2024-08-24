@@ -1,4 +1,4 @@
-<h1>FLOW CHART</h1>
+<h1>FLOW CHART</h1><BR>
 Start
 
 Trigger: Need to install a Python package.
@@ -27,6 +27,6 @@ Result: Package successfully installed.
 1.Ensure Matplotlib is Installed
 First, ensure that matplotlib is installed in your Python environment. You can do this by running:
 pip install matplotlib <BR>
-2. Write the Code <BR>
-Create a Python script or run the code directly in a Python interpreter
+2. Write the Code 
+Create a Python script or run the code directly in a Python interpreter<BR>
 3.Run the code
